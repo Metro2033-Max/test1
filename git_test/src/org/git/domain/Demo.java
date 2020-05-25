@@ -6,6 +6,6 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("Demo.main");
         //添加一样
-        //hub 上 更改
+        //idea 上 更改
     }
 }
